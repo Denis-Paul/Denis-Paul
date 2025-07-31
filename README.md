@@ -1,4 +1,4 @@
-- Hi, I’m **Denis**, a versatile full-stack developer with over 7 years of experience building web applications across various industries
+- Hi, I’m **Denis**, a versatile full-stack developer with 8 years of experience building web applications across various industries
 - I’m interested in *Web Development* and *AI/ML*
 - I’m currently working with **Ruby on Rails**, **JavaScript** while expanding my knowledge in **React**, **Python**, and **AI**.
 - I’m looking to collaborate on Web Development projects
