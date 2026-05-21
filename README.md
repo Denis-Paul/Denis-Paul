@@ -1,6 +1,6 @@
-- Hi, I’m **Denis**, a versatile full-stack developer with 8 years of experience building web applications across various industries
+- Hi, I’m **Denis**, a versatile full-stack engineer with over 8 years of experience building web applications across various industries
 - I’m interested in *Web Development* and *AI/ML*
-- I’m currently working with **Ruby on Rails**, **JavaScript** while expanding my knowledge in **React**, **Python**, and **AI**.
+- I’m currently working with **Ruby on Rails**, **JavaScript** while expanding my knowledge in **React**, **Python**, and **Kotlin**.
 - I’m looking to collaborate on Web Development projects
 - You can reach me via email at: **paul_denis100@yahoo.com**
 
